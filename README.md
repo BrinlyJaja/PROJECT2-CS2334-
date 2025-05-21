@@ -50,15 +50,5 @@ So our calculation won't be perfect, but for our purposes it will be close enoug
 
 `avgSpeed(TripPoint a, TripPoint b)`: Should return the average speed between two points in kilometers per hour. This method should work no matter which order the points are given in. 
 
-## Grading
-
-Plagiarism will not be tolerated under any circumstances. Participating students will be penalized depending on the degree of plagiarism. It includes "No-code" sharing among the students. It can lead to academic misconduct reporting to the authority if identical code is found among students. 
-
-You will be graded on: 
-* Zybooks submission: 80 points
-* Github commits (10 commits): 10 points
-* Javadocs: 10 points
-
-Note that the data file used in Zybooks is different from the one in GitHub so your solution should be a general solution.
 
 Submit your project before the due date/time. **No late submissions allowed.**
